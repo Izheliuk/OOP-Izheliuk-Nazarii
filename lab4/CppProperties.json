@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "name": "Mingw64",
+      "includePath": [
+        "${env.INCLUDE}",
+        "${workspaceRoot}\\**"
+      ],
+      "intelliSenseMode": "linux-gcc-x64",
+      "compilerPath": "C:\\Path\\To\\Mingw64\\bin\\g++.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "browse": {
+        "path": [
+          "${workspaceRoot}"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      }
+    }
+  ],
+  "version": 4
+}
